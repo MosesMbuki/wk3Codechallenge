@@ -81,19 +81,7 @@ print(Magazine.top_publisher())  # Magazine with most articles
 Key Features
 Strict type and length validation for all properties
 
-Immutable properties where appropriate
 
-Comprehensive relationship tracking
-
-Advanced query methods:
-
-Topic area analysis
-
-Contributor statistics
-
-Top publisher identification
-
-Proper error handling for invalid inputs
 
 ### Development Notes
 Article acts as the single source of truth for relationships
